@@ -2,7 +2,7 @@
   "name": "codealpha",
   "displayName": "CodeAlpha",
   "description": "Code Alpha",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "MHuiG",
   "repository": "https://github.com/MHuiG/codealpha",
   "icon": "logo.png",
@@ -18,7 +18,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:codealpha.settings"
+    "*"
   ],
   "main": "./out/extension.js",
   "contributes": {

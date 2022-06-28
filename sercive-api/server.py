@@ -61,7 +61,7 @@ class Resquest(BaseHTTPRequestHandler):
         self.wfile.write(html.encode())
 
 
-model_dir = "../model/"
+model_dir = "E:/Github/Codex/model/"
 model_name = "gpt-neo-125M-code-clippy-dedup-2048"
 model_source = model_dir + model_name
 host = ('localhost', 8888)
