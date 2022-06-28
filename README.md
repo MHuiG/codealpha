@@ -1,5 +1,5 @@
-# codealpha README
+# CodeAlpha
 
-This is the README for extension "codealpha".
+这只是一个 Hello World 测试项目。
 
 **Enjoy!**
