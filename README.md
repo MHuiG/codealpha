@@ -6,7 +6,7 @@
 
 ## 环境与依赖
 
-需要 python 环境，笔者使用的是 conda，依赖库当然是 transformers 啦。
+需要 python 环境，笔者使用的是 conda，依赖库当然是 [transformers](https://github.com/huggingface/transformers) 啦。
 
 ```bash
 conda install transformers
@@ -18,7 +18,7 @@ https://huggingface.co/models?search=code-clippy
 
 选择下载你喜欢的 models
 
-注意修改 `./sercive-api/server.py` 的路径
+注意修改 [`./sercive-api/server.py`](https://github.com/MHuiG/codealpha/blob/main/sercive-api/server.py) 的 Model 路径
 
 ## 启动 sercive api server
 
